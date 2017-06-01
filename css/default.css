@@ -1,0 +1,168 @@
+a:hover {
+	font-family: "Times New Roman", Times, serif;
+	color: #000000;
+	background-color: #CCCCCC;
+	font-size: 16px;
+	font-style: normal;
+	text-transform: capitalize;
+}
+.loginbody {
+	font-family: "Times New Roman", Times, serif;
+	background-color: #2998DC;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-style: normal;
+	text-transform: capitalize;
+	height: auto;
+	width: auto;
+	clear: none;
+	float: none;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+.menu {
+	font-family: "Times New Roman", Times, serif;
+	background-color: #9FDFAB;
+	color: #000000;
+	font-size: 16px;
+	font-style: normal;
+	text-transform: capitalize;
+	height: auto;
+	width: auto;
+	text-decoration: blink;
+}
+.tablebody {
+	font-family: "Times New Roman", Times, serif;
+	background-color: #2998DC;
+	color: #000000;
+	font-size: 16px;
+	font-style: normal;
+	text-transform: capitalize;
+
+}
+.edittablebody {
+	font-family: "Times New Roman", Times, serif;
+	background-color: #CCCCFF;
+	color: #000000;
+	font-size: 16px;
+	font-style: normal;
+	font-weight:bold;
+	text-transform: capitalize;
+
+}
+
+.box2 {
+	font-style: italic;
+	word-spacing: 2pt;
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;
+}
+.logout
+{
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.textRpt {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color:#000000;
+	font-weight:bold;
+}
+.headTitleRpt
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	background-color:#2998DC;
+	color:#FFFFFF;
+}
+.headTitleRpt th {
+	cursor: pointer;
+}
+
+.footer {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	background: #FF0000;
+}
+.box1 {
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+.crossIcon
+{
+	width:10px;
+	height:10px;
+	cursor: pointer;
+}
+.crossIcon .firstPortion
+{
+	height:10px;
+	width:2px;
+	/*margin-left:12px;*/
+	background-color:black;
+	transform: rotate(45deg);
+	-ms-transform: rotate(45deg); /* IE 9 */
+	-webkit-transform: rotate(45deg); /* Safari and Chrome */
+	Z-index:1;
+
+}
+.crossIcon .secondPortion
+{
+	height:10px;
+	width:2px;
+
+	background-color:black;
+	transform: rotate(90deg);
+	-ms-transform: rotate(90deg); /* IE 9 */
+	-webkit-transform: rotate(90deg); /* Safari and Chrome */
+	Z-index:2;
+
+}
+.container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.form-group {
+	margin-bottom: 15px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.form-group .form-control {
+	/*height: 30px;*/
+	padding: 5px 10px;
+	font-size: 12px;
+	line-height: 1.5;
+	border-radius: 3px;
+}
+.control-label {
+	margin-bottom: 0;
+	padding-top: auto;
+	padding-bottom: 5px;
+	vertical-align: middle;
+}
+textarea {
+	width:350px;
+	height: 100px;
+}
+
+
+.sendButton {
+	display: block;
+	margin-left: 350px;
+}
