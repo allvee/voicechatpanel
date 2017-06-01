@@ -1,1 +1,1 @@
-http://192.168.5.130/smsgw_sendsms/SendSingleSMS.php?UserName=admin&Password=1234&Sender=2828&text=8801775649311|hi;
+http://192.168.5.130/smsgw_sendsms/SendSingleSMS.php?UserName=admin&Password=1234&Sender=2828&text=8801775649311|hi; 
